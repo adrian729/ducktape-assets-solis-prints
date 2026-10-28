@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: arabesque-cartouche
+title: Arabesque cartouche on dark ground
+description: A wide symmetrical cartouche printed as a near-black brownish ground with the ornament left in reserve, so the arabesque reads as light lines and leaves cut out of the dark field. The outline is scalloped, with pointed ogee finials at top and bottom centre, two knotted interlace loops over the top finial, scrolled lobes at the four corners and squared bracket terminals at left and right. A band of running scrolls frames an inner field of interlaced strapwork and dense leaf scrolls around a central lozenge. Only the dark ink is opaque; the ornament itself is transparent.
+type: ornament
+categories:
+  - scrollwork
+  - knotwork
+subjects:
+  - arabesque
+  - cartouche
+  - scroll
+  - leaf
+  - finial
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 33-70-39
+render:
+  image: {}
+usage_notes:
+  - The ornament is the transparent part, so it only reads on a light background; on a dark page the whole piece disappears into a silhouette.
+  - Complete finite cartouche; it works as a label, title plaque or medallion, not as a repeat or frame.
+display_width:
+  - 400
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The dark ground is not fully opaque, so a light page tints it slightly; fine plate scratches and printing grain are kept in the ink.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Arabesque Design on Dark Ground
+  object_identifier: 33.70.39
+  date: 1534–1562
+  artist: Virgil Solis
+  record_url: https://www.metmuseum.org/art/collection/search/696807
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP854199.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9766c1175b0eed8f2a3c5a67f793ac76c2e1a03ef874ebb70c75d35a8c9b3947
+license: CC0-1.0
